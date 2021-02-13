@@ -7,10 +7,10 @@ import { Component } from '@angular/core';
 export class AppComponent {
   public appPages = [
     {
-      title: 'Cards', url: '/folder/Inbox', icon: 'card-outline'
+      title: 'Cards', url: '/folder/Cards', icon: 'card-outline'
     },
     {
-      title: 'Settings', url: '/folder/Outbox', icon: 'settings-outline'
+      title: 'Settings', url: '/folder/Settings', icon: 'settings-outline'
     }
   ];
   constructor() { }
