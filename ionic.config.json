@@ -1,0 +1,7 @@
+{
+  "name": "shopllet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
